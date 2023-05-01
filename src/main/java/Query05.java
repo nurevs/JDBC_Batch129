@@ -14,7 +14,7 @@ public class Query05 {
 
         //SORU: Öğrenciler tablosuna yen bir kayıt ekleyin (300, ‘Sena Can’, 12, ‘K’)
 //        String sql01="insert into ogrenciler values(6300,'Sena Can',12,'K') ";
-//        st.executeUpdate(sql01);
+//        st.executeUpdate(setrtql01);
         //SORU: Öğrenciler tablosuna birden fazla veri ekleyin
         // (400, 'Sena Can', 12, 'K'), (401, 'Sena Can', 12, 'K'), (402, 'Sena Can', 12, 'K')
 //        String[] veri = {"insert into ogrenciler values(500, 'Sena Can', 12, 'K')" ,
